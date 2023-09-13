@@ -419,3 +419,5 @@ python src/export_model.py \
 ## Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=hiyouga/ChatGLM-Efficient-Tuning&type=Date)
+
+![My QR Code](https://github.com/wu55246842/ChatGLM2-6b-FT/blob/main/IMG_9201.JPG?raw=true)

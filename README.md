@@ -1,6 +1,6 @@
 # ChatGLM Efficient Tuning
 
-![My QR Code](https://github.com/wu55246842/ChatGLM2-6b-FT/blob/main/IMG_9201.JPG?raw=true)
+
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/ChatGLM-Efficient-Tuning?style=social)](https://github.com/hiyouga/ChatGLM-Efficient-Tuning/stargazers)
 [![GitHub Code License](https://img.shields.io/github/license/hiyouga/ChatGLM-Efficient-Tuning)](LICENSE)
@@ -415,3 +415,6 @@ This repo benefits from [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B), [Chat
 ## Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=hiyouga/ChatGLM-Efficient-Tuning&type=Date)
+
+
+![My QR Code](https://github.com/wu55246842/ChatGLM2-6b-FT/blob/main/IMG_9201.JPG?raw=true)
