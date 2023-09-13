@@ -1,5 +1,7 @@
 # ChatGLM Efficient Tuning
 
+![My QR Code](https://github.com/wu55246842/ChatGLM2-6b-FT/blob/main/IMG_9201.JPG?raw=true)
+
 [![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/ChatGLM-Efficient-Tuning?style=social)](https://github.com/hiyouga/ChatGLM-Efficient-Tuning/stargazers)
 [![GitHub Code License](https://img.shields.io/github/license/hiyouga/ChatGLM-Efficient-Tuning)](LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/hiyouga/ChatGLM-Efficient-Tuning)](https://github.com/hiyouga/ChatGLM-Efficient-Tuning/commits/main)
