@@ -1,0 +1,2 @@
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id="THUDM/chatglm2-6b", local_dir="./chatglm2-6b/")
